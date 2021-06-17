@@ -3,3 +3,4 @@
 3. <a href="https://machinelearningmastery.com/bayes-optimal-classifier/">Bayes optimal classifier-machinelearningmastery</a>
 4. <a href="https://www.geeksforgeeks.org/naive-bayes-classifiers/#:~:text=Naive%20Bayes%20classifiers%20are%20a,is%20independent%20of%20each%20other.">naive bayes-gfg</a>
 5. <a href="https://www.youtube.com/watch?v=5WCkrDI7VCs&list=PLIg1dOXc_acbdJo-AE5RXpIM_rvwrerwR&index=19">naive bayes-nptel</a>
+6. <a href="https://machinelearningmastery.com/classification-as-conditional-probability-and-the-naive-bayes-algorithm/">How to Develop a Naive Bayes Classifier from Scratch in Python-machinelearningmastery</a>
