@@ -8,3 +8,4 @@ BERT Related papers:
 More:
 1. <a href="https://d2l.ai/chapter_natural-language-processing-applications/finetuning-bert.html">Fine-Tuning BERT for Sequence-Level and Token-Level Applications</a>
 2. <a href="https://colab.research.google.com/github/NielsRogge/Transformers-Tutorials/blob/master/BERT/Custom_Named_Entity_Recognition_with_BERT_only_first_wordpiece.ipynb#scrollTo=zPDla1mmZiax">Custom Named Entity Recognition with BERT</a>
+3. <a href="https://www.youtube.com/watch?v=dabFOBE4eZI">Pre-training strategies for BERT-based Transformer architectures – language and vision!</a>
